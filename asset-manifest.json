@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vote-dapp/static/css/main.bca2956b.css",
+    "main.js": "/vote-dapp/static/js/main.7640dce5.js",
+    "static/js/787.a1f9ec44.chunk.js": "/vote-dapp/static/js/787.a1f9ec44.chunk.js",
+    "index.html": "/vote-dapp/index.html",
+    "main.bca2956b.css.map": "/vote-dapp/static/css/main.bca2956b.css.map",
+    "main.7640dce5.js.map": "/vote-dapp/static/js/main.7640dce5.js.map",
+    "787.a1f9ec44.chunk.js.map": "/vote-dapp/static/js/787.a1f9ec44.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca2956b.css",
+    "static/js/main.7640dce5.js"
+  ]
+}
